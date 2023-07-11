@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ROHIT32767-Portfolio/static/css/main.e0ef6d57.css",
-    "main.js": "/ROHIT32767-Portfolio/static/js/main.6de08f86.js",
-    "static/media/me.jpg": "/ROHIT32767-Portfolio/static/media/me.4584e0cf2814f779a04b.jpg",
-    "static/media/address.png": "/ROHIT32767-Portfolio/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/ROHIT32767-Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/ROHIT32767-Portfolio/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/phone.png": "/ROHIT32767-Portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/ROHIT32767-Portfolio/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/ROHIT32767-Portfolio/index.html",
-    "main.e0ef6d57.css.map": "/ROHIT32767-Portfolio/static/css/main.e0ef6d57.css.map",
-    "main.6de08f86.js.map": "/ROHIT32767-Portfolio/static/js/main.6de08f86.js.map"
+    "main.css": "/ROHIT32767-portfolio/static/css/main.e0ef6d57.css",
+    "main.js": "/ROHIT32767-portfolio/static/js/main.c6683e7a.js",
+    "static/media/me.jpg": "/ROHIT32767-portfolio/static/media/me.4584e0cf2814f779a04b.jpg",
+    "static/media/address.png": "/ROHIT32767-portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/ROHIT32767-portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/ROHIT32767-portfolio/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/ROHIT32767-portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/ROHIT32767-portfolio/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/ROHIT32767-portfolio/index.html",
+    "main.e0ef6d57.css.map": "/ROHIT32767-portfolio/static/css/main.e0ef6d57.css.map",
+    "main.c6683e7a.js.map": "/ROHIT32767-portfolio/static/js/main.c6683e7a.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ef6d57.css",
-    "static/js/main.6de08f86.js"
+    "static/js/main.c6683e7a.js"
   ]
 }
